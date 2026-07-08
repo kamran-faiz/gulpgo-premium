@@ -682,8 +682,6 @@ function Footer() {
 /* ------------------------------------------------------------------ */
 
 function LandingPage() {
-  // keep a small local state hook usage minimal; tabs manage their own state
-  const [] = useState(0);
   return (
     <div className="min-h-screen bg-background text-foreground">
       <Navbar />
