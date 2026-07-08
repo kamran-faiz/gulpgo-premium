@@ -22,7 +22,7 @@ import {
   Clock,
   CreditCard,
   Droplet,
-  FileText,
+  
   Factory,
   Gauge,
   GraduationCap,
