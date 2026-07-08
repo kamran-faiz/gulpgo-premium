@@ -84,15 +84,19 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
           "GulpGo is white-label water delivery software to manage orders, routes, drivers, payments, subscriptions, and complaints from one simple platform.",
       },
       { name: "author", content: "GulpGo" },
-      { property: "og:title", content: "GulpGo — Water Delivery Management Software" },
+      { property: "og:title", content: "GulpGo — White-Label Water Delivery Management Software" },
       {
         property: "og:description",
         content:
-          "Run your bottled, drinking, or bulk water delivery business from one platform. Manage orders, routes, drivers, payments, and subscriptions.",
+          "GulpGo is white-label water delivery software to manage orders, routes, drivers, payments, subscriptions, and complaints from one simple platform.",
       },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
       { name: "twitter:site", content: "@GulpGo" },
+      { name: "twitter:title", content: "GulpGo — White-Label Water Delivery Management Software" },
+      { name: "twitter:description", content: "GulpGo is white-label water delivery software to manage orders, routes, drivers, payments, subscriptions, and complaints from one simple platform." },
+      { property: "og:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/129044da-a69d-4bb1-9b66-07cd514b1730/id-preview-3943cb18--ca3ccdff-7f2d-4112-b1cc-bb5b4da231cd.lovable.app-1783486509671.png" },
+      { name: "twitter:image", content: "https://pub-bb2e103a32db4e198524a2e9ed8f35b4.r2.dev/129044da-a69d-4bb1-9b66-07cd514b1730/id-preview-3943cb18--ca3ccdff-7f2d-4112-b1cc-bb5b4da231cd.lovable.app-1783486509671.png" },
     ],
     links: [
       {
