@@ -90,6 +90,9 @@
   --amber: oklch(0.78 0.15 75);
   --amber-foreground: oklch(0.25 0.05 60);
 
+  --gold: oklch(0.84 0.13 88);
+
+
   --muted: oklch(0.965 0.008 240);
   --muted-foreground: oklch(0.52 0.03 258);
   --accent: oklch(0.95 0.02 235);
